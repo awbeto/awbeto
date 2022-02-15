@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @awbeto
+- 👀 I’m interested in learn new things
+- 🌱 I’m currently learning php and sql
+- 💞️ I’m looking to collaborate on anything that make a better version of me
+- 📫 How to reach me on instagram: dm @awbetoo
