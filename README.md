@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @awbeto
-- 👀 I’m interested in learn new things
-- 🌱 I’m currently learning php and sql
-- 💞️ I’m looking to collaborate on anything that make a better version of me
-- 📫 How to reach me on instagram: dm @awbetoo
+- Tenho formação como tecnólogo de Redes de Computadores
+- Atualmente cursando tecnólogo de Desenvolvimento Web
+- Estou aprendendo e implementando meus conhecimentos de JavaScript, HTM e CSS
+- Sempre tive uma forte paixão por tecnologia e procurei me envolver o maximo possível com ela. Cursei por dois anos e meio o curso de redes, e lá me deparei com os principios da progamação e de banco de dados, dai resolvi que iria investir meu tempo e energia nessas aréas, por isso resolvi cursar desenvolvimento Web. Sempre procuro melhorar minhas habilidades e bucar conhecimento para assim poder trabalhar com as melhrores equipes do mercado.
